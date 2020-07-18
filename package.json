@@ -1,0 +1,21 @@
+{
+  "name": "simple-script",
+  "version": "1.0.0",
+  "description": "Simple script is a collection of utilities that makes writing code in JavaScript or TypeScript easier and keeps your code clean.",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypticminds/simple-script.git"
+  },
+  "author": "Anurag Mandal",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/crypticminds/simple-script/issues"
+  },
+  "homepage": "https://github.com/crypticminds/simple-script#readme",
+  "private": true
+}
